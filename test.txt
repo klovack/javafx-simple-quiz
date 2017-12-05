@@ -1,0 +1,2 @@
+What is your name {Rizki; Vitri; Others} 2
+3*3 = {9; 2; 4; 2} 0
